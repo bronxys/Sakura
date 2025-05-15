@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node connect.js",
-    "start": "sh scheyot.sh bronxys"
+    "start": "sh scheyot.sh"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^9.1.4",
-    "@whiskeysockets/baileys": "github:whiskeysockets/baileys",
+   "@whiskeysockets/baileys": "github:whiskeysockets/baileys",
     "aki-api": "^6.0.8",
     "async": "^3.2.3",
     "awesome-phonenumber": "^2.69.0",
