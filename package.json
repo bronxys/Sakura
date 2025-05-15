@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node connect.js",
-    "start": "sh scheyot.sh"
+    "start": "sh scheyot.sh bronxys"
   },
   "repository": {
     "type": "git",
